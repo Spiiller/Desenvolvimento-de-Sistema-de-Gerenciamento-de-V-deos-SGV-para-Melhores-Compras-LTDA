@@ -1,4 +1,4 @@
-# Desenvolvimento de Sistema de Gerenciamento de Vídeos (SGV) para Melhores Compras LTDA
+# Fortalecendo-a-Plataforma-com-Oracle-PL-SQL-e-Conformidade-com-a-LGPD
 
 O projeto consiste no desenvolvimento de um Sistema de Gerenciamento de Vídeos (SGV) para a empresa Melhores Compras LTDA, utilizando uma abordagem ágil com foco na consistência dos dados e na conformidade com a Lei Geral de Proteção de Dados (LGPD). Entre as tecnologias empregadas, destacam-se:
 
